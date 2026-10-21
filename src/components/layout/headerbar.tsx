@@ -175,7 +175,7 @@ const Headerbar = (props: HeaderbarProps) => {
               cursor: 'pointer',
               flexShrink: 0,
             }} 
-            onClick={() => window.open('https://github.com/larry-xue/react-admin-dashboard')} 
+            onClick={() => window.open('https://github.com/itsyujay/react-admin-dashboard')}
           />
         </div>
       </div>

@@ -70,7 +70,7 @@ src/
 ### Installation
 
 ```bash
-git clone https://github.com/larry-xue/react-admin-dashboard.git
+git clone https://github.com/itsyujay/react-admin-dashboard.git
 cd react-admin-dashboard
 npm install
 npm run dev
@@ -211,6 +211,6 @@ PRs and issues are welcome! Please:
 ---
 
 ## License
-MIT © [Yujian Xue](https://larryxue.dev)
+MIT © [Yujian Xue](https://yujay.dev)
 
 Acknowledgements: [Ant Design](https://ant.design/), [Vite](https://vitejs.dev/), [React Router](https://reactrouter.com/), [Zustand](https://github.com/pmndrs/zustand)
